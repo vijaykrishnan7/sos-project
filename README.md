@@ -1,4 +1,4 @@
-# sos-learning Management System
+# sos-Learning Management System
 # 🎓 Learning Management System – School of Skills
 
 A simple and interactive **Learning Management System (LMS)** developed using **Python, Object-Oriented Programming (OOP), and Streamlit**.
